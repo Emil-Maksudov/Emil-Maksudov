@@ -37,28 +37,28 @@
 <h3>Personal repositories</h3>
 
 + Windows Forms
-  + [Russian Test](https://github.com/Gerhard-Schulz/RussianTest)
-  + [Kurs Game](https://github.com/Gerhard-Schulz/KursWork)
+  + [Russian Test](https://github.com/Emil-Maksudov/RussianTest)
+  + [Kurs Game](https://github.com/Emil-Maksudov/KursWork)
 + Qt
-  + [Convertor](https://github.com/Gerhard-Schulz/Convertor)
-  + [Calculator](https://github.com/Gerhard-Schulz/Calculator)
-  + [Paint](https://github.com/Gerhard-Schulz/PaintQT)
+  + [Convertor](https://github.com/Emil-Maksudov/Convertor)
+  + [Calculator](https://github.com/Emil-Maksudov/Calculator)
+  + [Paint](https://github.com/Emil-Maksudov/PaintQT)
 + WPF
-  + [Traficlight](https://github.com/Gerhard-Schulz/Traficlight)
-  + [RunLabel](https://github.com/Gerhard-Schulz/RunLabel)
+  + [Traficlight](https://github.com/Emil-Maksudov/Traficlight)
+  + [RunLabel](https://github.com/Emil-Maksudov/RunLabel)
 + ASP.NET
-  + [FRDZ School Web](https://github.com/Gerhard-Schulz/FRDZ-School-Web)
-  + [Valeronix](https://github.com/Gerhard-Schulz/Valeronix)
-  + [MaliLib](https://github.com/Gerhard-Schulz/MaliLib)
-  + [Faxr Hospital](https://github.com/Gerhard-Schulz/FaxrHospital)
-  + [AR Grace beauty](https://github.com/Gerhard-Schulz/AR-Grace-beauty)
+  + [FRDZ School Web](https://github.com/Emil-Maksudov/FRDZ-School-Web)
+  + [Valeronix](https://github.com/Emil-Maksudov/Valeronix)
+  + [MaliLib](https://github.com/Emil-Maksudov/MaliLib)
+  + [Faxr Hospital](https://github.com/Emil-Maksudov/FaxrHospital)
+  + [AR Grace beauty](https://github.com/Emil-Maksudov/AR-Grace-beauty)
 + DB
   + [:lock:Future manual](https://github.com/dqrest/learning-data-base)
 + Сonsole 
-  + [Work with matrix](https://github.com/Gerhard-Schulz/WorkWithMatrix)
-  + [Work with matrix C++](https://github.com/Gerhard-Schulz/WorkWithMatrixC-)
-  + [Cat vs Fish game](https://github.com/Gerhard-Schulz/CatVSFish)
-  + [Back-Track](https://github.com/Gerhard-Schulz/BackTrack)
+  + [Work with matrix](https://github.com/Emil-Maksudov/WorkWithMatrix)
+  + [Work with matrix C++](https://github.com/Emil-Maksudov/WorkWithMatrixC-)
+  + [Cat vs Fish game](https://github.com/Emil-Maksudov/CatVSFish)
+  + [Back-Track](https://github.com/Emil-Maksudov/BackTrack)
 
 <h3>Nabla Lab.</h3>
 
@@ -66,7 +66,7 @@
   + [:lock:NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
   + [:lock:PVSystem](https://github.com/Leonid-Vizel/PVSystem)
   + [:lock:NablaBuilder](https://github.com/Leonid-Vizel/NablaBuilder)
-  + [:lock:PTLV Service](https://github.com/Gerhard-Schulz/KZM)
-  + [:lock:PDE Writing](https://github.com/Gerhard-Schulz/pde-writing.ru)
+  + [:lock:PTLV Service](https://github.com/Emil-Maksudov/KZM)
+  + [:lock:PDE Writing](https://github.com/Emil-Maksudov/pde-writing.ru)
   + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
 </p>
