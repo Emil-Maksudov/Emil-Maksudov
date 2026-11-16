@@ -9,17 +9,6 @@
 
 Hi! I'm a developer at Nabla Lab, an IT company that does software development and IT infrastructure. I build desktop and web applications on C# / .NET, design databases and turn business processes into working software. And when a project needs someone to bring the team together, set priorities and talk to people, that's me too.
 
-csharp
-var emil = new Developer
-{
-    Company    = "Nabla Lab",   // software development & IT infrastructure
-    Roles      = ["Developer", "Project manager", "Analyst"],
-    Builds     = ["Desktop apps", "Web apps", "Databases", "Business processes"],
-    Paradigms  = ["OOP", "Functional programming"],
-    Superpower = "Interfaces that feel human",
-};
-
-await emil.ShipAsync();
 <table> <tr> <td width="33%" valign="top">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26" alt="" /> Development
 Desktop apps in C#: WPF, WinForms, Qt
