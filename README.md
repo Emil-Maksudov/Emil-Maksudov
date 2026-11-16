@@ -1,72 +1,53 @@
-- Application development in C#, WPF, Qt.
-- Understanding functional and object-oriented programming.
-- Development of web applications using ASP.NET MVC.
-- Project management. Organization of other developers in the team and coordination. Administration of social networks. Communication with communities.
-- Development and creation of UI/UX, user-friendly and human interfaces.
-- Database architecture design.
-- Building Business Processes (BPMN).
-- Analytics using PowerBI, VBA Excel, RapidMiner.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=200&section=header&text=Emil%20Maksudov&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=.NET%20Developer%20%7C%20Project%20Management%20%7C%20Analytics&descSize=18&descAlignY=56&animation=fadeIn" width="100%" alt="Header" /> <a href="https://github.com/Gerhard-Schulz"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=560&height=40&lines=C%23+%2F+.NET+developer;Desktop+apps+with+WPF%2C+WinForms+and+Qt;Web+apps+on+ASP.NET+MVC+%26+Core;Database+architecture+%26+BPMN;Analytics+with+Power+BI+and+Excel+VBA" alt="Typing SVG" /> </a>
 
-<p>
-<img width="60%" align="right" src="https://streak-stats.demolab.com?user=Gerhard-Schulz&theme=dark&hide_border=true&border_radius=5&locale=en">
-<img width="60%" align="right" alt="Maksudov Emil's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gerhard-Schulz&count_private=true&hide=cpp,javascript,python&show_icons=true&hide_border=true&line_height=27&theme=dark&show_owner=true&include_all_commits=true" />
-<img width="60%" align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gerhard-Schulz&hide_border=true&layout=compact&langs_count=16&theme=dark" />
+<br/><br/>
 
-### **You can find me at:**
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gerhard-Schulz)
-[![VK](https://img.shields.io/badge/-VK-000?style=flat&logo=VK&logoColor=white)](https://vk.com/e.maxudov)
+<a href="https://github.com/Gerhard-Schulz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://vk.com/e.maxudov"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" /></a> <img src="https://komarev.com/ghpvc/?username=Gerhard-Schulz&style=for-the-badge&color=70a5fd&label=PROFILE+VIEWS" alt="Profile views" />
 
-### Program languages and tools I use:<br><br>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg"></code>
-<br/>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+</div> <br/>
+👨‍💻 About me
 
-<h2 align="center">GitHub map</h2>
-<h3>Personal repositories</h3>
+I build desktop and web applications on C# / .NET, design databases and turn business processes into working software. Beyond code, I organize development teams, keep projects on track and stay in touch with the communities around them.
 
-+ Windows Forms
-  + [Russian Test](https://github.com/Emil-Maksudov/RussianTest)
-  + [Kurs Game](https://github.com/Emil-Maksudov/KursWork)
-+ Qt
-  + [Convertor](https://github.com/Emil-Maksudov/Convertor)
-  + [Calculator](https://github.com/Emil-Maksudov/Calculator)
-  + [Paint](https://github.com/Emil-Maksudov/PaintQT)
-+ WPF
-  + [Traficlight](https://github.com/Emil-Maksudov/Traficlight)
-  + [RunLabel](https://github.com/Emil-Maksudov/RunLabel)
-+ ASP.NET
-  + [FRDZ School Web](https://github.com/Emil-Maksudov/FRDZ-School-Web)
-  + [Valeronix](https://github.com/Emil-Maksudov/Valeronix)
-  + [MaliLib](https://github.com/Emil-Maksudov/MaliLib)
-  + [Faxr Hospital](https://github.com/Emil-Maksudov/FaxrHospital)
-  + [AR Grace beauty](https://github.com/Emil-Maksudov/AR-Grace-beauty)
-+ DB
-  + [:lock:Future manual](https://github.com/dqrest/learning-data-base)
-+ Сonsole 
-  + [Work with matrix](https://github.com/Emil-Maksudov/WorkWithMatrix)
-  + [Work with matrix C++](https://github.com/Emil-Maksudov/WorkWithMatrixC-)
-  + [Cat vs Fish game](https://github.com/Emil-Maksudov/CatVSFish)
-  + [Back-Track](https://github.com/Emil-Maksudov/BackTrack)
+<table> <tr> <td width="33%" valign="top">
+💻 Development
+Desktop apps in C#: WPF, WinForms, Qt
+Web apps on ASP.NET MVC / Core
+Functional & object-oriented programming
+UI/UX: clear, user-friendly, human interfaces
+</td> <td width="33%" valign="top">
+🗄️ Data & Processes
+Database architecture design
+Business process modeling in BPMN
+Analytics with Power BI, Excel VBA, RapidMiner
+</td> <td width="33%" valign="top">
+🧭 Management
+Project management
+Organizing and coordinating developers in the team
+Social media administration and community communication
+</td> </tr> </table> <br/>
+🛠️ Tech stack
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,qt,js,html,css,bootstrap&theme=dark" alt="Languages and frameworks" /> <br/> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,visualstudio&theme=dark" alt="Databases and tools" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /> <img src="https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel VBA" /> <img src="https://img.shields.io/badge/RapidMiner-EF6C00?style=for-the-badge" alt="RapidMiner" /> <img src="https://img.shields.io/badge/BPMN-1F6FEB?style=for-the-badge" alt="BPMN" /> <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" /> </p> <br/>
+📊 GitHub stats
+<p align="center"> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gerhard-Schulz&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" /> <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gerhard-Schulz&layout=compact&langs_count=8&hide=cpp,javascript,python&hide_border=true&theme=tokyonight" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Gerhard-Schulz&theme=tokyonight&hide_border=true&locale=en" alt="GitHub streak" /> </p> <br/>
+🗺️ GitHub map
+📁 Personal projects
+Stack	Projects
+<img src="https://img.shields.io/badge/WinForms-68217A?style=flat-square&logo=dotnet&logoColor=white" alt="WinForms" />	Russian Test · Kurs Game
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt" />	Convertor · Calculator · Paint
+<img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />	Traficlight · RunLabel
+<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />	FRDZ School Web · Valeronix · MaliLib · Faxr Hospital · AR Grace beauty
+<img src="https://img.shields.io/badge/Databases-336791?style=flat-square&logo=postgresql&logoColor=white" alt="Databases" />	🔒 Future manual
+<img src="https://img.shields.io/badge/Console-30363D?style=flat-square" alt="Console" />	Work with matrix · Work with matrix C++ · Cat vs Fish game · Back-Track
+🧪 Nabla Lab
 
-<h3>Nabla Lab.</h3>
+Team projects built on ASP.NET Core.
 
-+ ASP.NET Core
-  + [:lock:NablaWeb](https://github.com/Leonid-Vizel/NablaWeb)
-  + [:lock:PVSystem](https://github.com/Leonid-Vizel/PVSystem)
-  + [:lock:NablaBuilder](https://github.com/Leonid-Vizel/NablaBuilder)
-  + [:lock:PTLV Service](https://github.com/Emil-Maksudov/KZM)
-  + [:lock:PDE Writing](https://github.com/Emil-Maksudov/pde-writing.ru)
-  + [WebAnimalPassport](https://github.com/Leonid-Vizel/WebAnimalPassport)
-</p>
+Project	Repository
+NablaWeb	🔒 Private
+PVSystem	🔒 Private
+NablaBuilder	🔒 Private
+PTLV Service	🔒 Private
+PDE Writing	🔒 Private
+WebAnimalPassport	🌐 Public
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=120&section=footer" width="100%" alt="Footer" />
